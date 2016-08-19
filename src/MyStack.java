@@ -50,7 +50,7 @@ public class MyStack {
 			  result = a/b;
 			  break;
 		  case '-':
-			  result = a-b;
+			  result = b-a;
 			  break;
 		  case '+':
 			  result = a+b;
